@@ -136,10 +136,10 @@
       ]
     },
 
-{ "key": "csp_桵空影院","name": "♠️桵空影院","type": 3,"api": "csp_XBPQ","jar":"https://jihulab.com/ffzs/jar/-/raw/main/xBPQ_.jar","ext": {"分类url": "https://www.maigo.cc/vodshow/{cateId}---{class}-----{catePg}---{year}/","分类": "电影$84#综艺$91#大陆剧$81#港台剧$82#海外剧$83#纪录片$88#动漫$1#日剧$32#日漫$46#国漫$47#美漫$85"}},
-{"key":"csp_lwdy","name":"♠️老王电影","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.laowang.co/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影$movie#电视剧$tv#综艺$tvshow#动漫$animation#短剧$duanju"},"jar":"https://jihulab.com/ffzs/jar/-/raw/main/XBPQ_2_.jar?inline=false"},
+{ "key": "csp_桵空影院","name": "♠️桵空影院","type": 3,"api": "csp_XBPQ","jar":"https://jihulab.com/xiaohutx/meisha/-/raw/main/1.jar","ext": {"分类url": "https://www.maigo.cc/vodshow/{cateId}---{class}-----{catePg}---{year}/","分类": "电影$84#综艺$91#大陆剧$81#港台剧$82#海外剧$83#纪录片$88#动漫$1#日剧$32#日漫$46#国漫$47#美漫$85"}},
+{"key":"csp_lwdy","name":"♠️老王电影","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.laowang.co/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影$movie#电视剧$tv#综艺$tvshow#动漫$animation#短剧$duanju"},"jar":"https://jihulab.com/ffzs/jar/-/raw/main/XBPQ_2_.jar"},
 
-{"key":"雪糕影视","name":"🍦雪糕影视","type":3,"api":"csp_XBPQ","jar": "https://agit.ai/lytv/cstv/raw/branch/master/XBPQ.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.xgitv.com/vshow/{cateId}--{by}---A---{catePg}---.html"}},
+{"key":"雪糕影视","name":"🍦雪糕影视","type":3,"api":"csp_XBPQ","jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/1.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.xgitv.com/vshow/{cateId}--{by}---A---{catePg}---.html"}},
 
 {
       "key": "bp",
@@ -238,7 +238,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "jar": "https://jihulab.com/ffzs/jar/-/raw/main/XBPQ.jar",
+      "jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/1.jar",
       "ext": {
         "站名": "免费看影视",
         "作者": "yydf",
