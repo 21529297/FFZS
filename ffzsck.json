@@ -1,11 +1,7 @@
 {"urls":[
- {"name": "『非凡装饰』主线","url":"https://agit.ai/lytv/FFZS/raw/branch/master/ffzs.json"},
- {"name": "备用4大厂线路","url":"https://jihulab.com/ffzs/ffzstv/-/raw/main/ffzs4DC.json"},
- {"name": "『非凡装饰』备用线","url":"https://jihulab.com/ffzs/ffzstv/-/raw/main/ffzs.json"},
-  {"name": "备用手机版线路","url":"https://jihulab.com/ffzs/ffzstv/-/raw/main/ffzsmobile.json"},
- {"name": "备用应急线路","url":"https://jihulab.com/ffzs/ffzstv/-/raw/main/ffzsSG.json"},
- {"name": "备用4K线路","url":"https://jihulab.com/ffzs/ffzstv/-/raw/main/ffzsSG4k.json"},
- {"name": "备用斧头线路","url":"https://jihulab.com/ffzs/ffzstv/-/raw/main/ffzsFT.json"}
+ {"name": "『非凡装饰』主线","url":"https://sourl.cn/M5FQ3w"},
+ {"name": "原始线路","url":"https://raw.githubusercontent.com/21529297/FFZS/main/ffzs.json"},
+  {"name": "备用手机版线路","url":"https://sourl.cn/VwFmSY"}
 ]
 }
 
