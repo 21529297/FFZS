@@ -6,6 +6,7 @@
 {"key":"豆豆","name":"♠️『非凡装饰』期待您的推荐！💕","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"玩偶","name":"👽玩偶哥哥┃4K超清","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
 
+	{"key":"直播转点播","name":"🐼电视直播","type":3,"searchable":0,"api":"https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/lib/live2vod.js","ext":"https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/lib/feimaolive.json"},
         {"key": "戏曲自定义",
     "name": "📻春盈┃戏曲",
     "type": 3,"api": "csp_Bili",
