@@ -18,6 +18,30 @@
 {"key":"Diduanys","name":"♠️渊渊-蓝光","type":3,"api":"csp_WexDiduanys","jar":"https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fanniu.jar","searchable":1,"changeable":1},
 
 {"key":"F4kvm","name":"♠️纯享-蓝光","type":3,"api":"csp_WexF4kvm","jar":"https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fanniu.jar","searchable":1,"changeable":1},
+
+      {
+            "key": "我爱跟剧",
+            "name": "🍁蓝光┃跟剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar":"https://jihulab.com/ffzs/jar/-/raw/main/xbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": {
+                "发布地址": "fabu.timiys.vip",
+                "简介": "vod_content\">&&</span>",
+                "线路数组": "module-tab-item tab-item&&</div>",
+                "线路标题": "<span>&&</span>+共+<small>&&</small>+集",
+                "跳转播放链接": "urlDecode(var player_*url\":\"&&\")",
+                "搜索url": "/vodsearch/{wd}-------------.html",
+                "分类url": "https://www.52gen.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+                "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#纪录片$jilupian#短剧$duanju#音乐$yinyue"
+            }
+        },
+
+
+
+	
 {"key":"drpy_js_奇珍异兽","name":"🤠｜奇艺采集","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"},
 {"key":"drpy_js_优酷","name":"🌱｜优酷采集","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"},
 {"key":"drpy_js_腾云驾雾","name":"☁️｜腾讯采集","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"},
