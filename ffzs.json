@@ -37,6 +37,19 @@
                 "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#纪录片$jilupian#短剧$duanju#音乐$yinyue"
             }
         },
+	{
+      "key": "T4-juquan",
+      "name": "🍁蓝光┃剧圈圈",
+      "type": 4,
+      "api": "https://catbox.n13.club/juquan.php"
+    },
+ {
+      "key": "T4-heihu",
+      "name": "🍁蓝光┃黑狐",
+      "type": 4,
+      "api": "https://catbox.n13.club/heihu.php"
+    },
+
 
 
 	
