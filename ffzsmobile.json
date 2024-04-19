@@ -6,6 +6,177 @@
 {"key":"豆豆","name":"📱『非凡装饰ᵀᴱᴸ』期待您的推荐！♠️","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"玩偶","name":"👽玩偶哥哥┃4K超清","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
 
+{"key":"直播转点播","name":"🐼电视直播","type":3,"searchable":0,"api":"https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/lib/live2vod.js","ext":"https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/lib/feimaolive.json"},
+
+{
+      "key": "T4-jieshuo",
+      "name": "🇹影视-解说",
+      "type": 4,
+      "api": "https://catbox.n13.club/bili.php?id=影视解说"
+    },
+
+ {
+      "key": "T4-juquan",
+      "name": "🇹蓝光┃剧圈圈",
+      "type": 4,
+      "api": "https://catbox.n13.club/juquan.php"
+    },
+ {
+      "key": "T4-heihu",
+      "name": "🇹蓝光┃黑狐",
+      "type": 4,
+      "api": "https://catbox.n13.club/heihu.php"
+    },
+
+ {
+      "key": "T4-mingri",
+      "name": "🇹独家┃2k",
+      "type": 4,
+      "api": "https://catbox.n13.club/mingri.php"
+    },
+      
+
+    {
+      "key": "T4-yinyuetai",
+      "name": "🇹MV┃音悦台",
+      "type": 4,
+      "api": "https://catbox.n13.club/yyt.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": true
+    },
+        {
+      "key": "T4-bmtv",
+      "name": "🇹MTV┃BMTV(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/bili.php?id=bMTV"
+    },
+    {
+      "key": "T4-iktv",
+      "name": "🇹KTV┃iktv",
+      "type": 4,
+      "api": "https://catbox.n13.club/iktv.php"
+    },
+    {
+      "key": "🇹音乐视频┃a8",
+      "name": "视频-A8(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/a8.php"
+    },
+        {
+      "key": "T4-Bliych",
+      "name": "🇹演唱会┃B站",
+      "type": 4,
+      "api": "https://catbox.n13.club/bili.php?id=Bliych"
+    },
+        {
+      "key": "T4-Blixq",
+      "name": "🇹戏曲┃B站",
+      "type": 4,
+      "api": "https://catbox.n13.club/bili.php?id=Blixq"
+    },
+    {
+      "key": "T4-bili",
+      "name": "🇹集合┃B站",
+      "type": 4,
+      "api": "https://catbox.n13.club/bili.php"
+    },
+{
+      "key": "T4-tangdou",
+      "name": "🇹健身┃糖豆",
+      "type": 4,
+      "api": "https://catbox.n13.club/tangdou.php"
+    },
+        {
+      "key": "T4-哔哩套餐2",
+      "name": "🇹KEEP┃哔哩",
+      "type": 4,
+      "api": "https://catbox.n13.club/bili.php?id=哔哩套餐2"
+    },
+
+    {
+      "key": "T4-球类合集",
+      "name": "🇹球类合集┃B站",
+      "type": 4,
+      "api": "https://catbox.n13.club/bili.php?id=球类合集"
+    },
+    {
+      "key": "T4-xiaogou",
+      "name": "🇹音频歌单┃酷狗",
+      "type": 4,
+      "api": "https://catbox.n13.club/xiaogou.php"
+    },
+        {
+      "key": "xiaoyi",
+      "name": "🇹音频歌单┃网易",
+      "type": 4,
+      "api": "https://catbox.n13.club/wy.php"
+    },
+
+{
+      "key": "meowtv_lzzy",
+      "name": "🇹全网┃采集",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "泰国剧",
+        "台湾剧",
+        "香港剧",
+        "欧美剧",
+        "韩国剧",
+        "日本剧",
+        "动漫",
+        "体育",
+        "剧情片",
+        "动作片",
+        "爱情片",
+        "喜剧片"
+      ]
+    },
+    {
+      "key": "快看资源",
+      "name": "🇹快看┃采集",
+      "type": 1,
+      "api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+      "国产剧",
+      "韩国剧",
+      "香港剧",
+      "台湾剧",
+      "欧美剧",
+      "动作片",
+      "科幻片",
+      "战争片",
+      "奇幻片",
+      "喜剧片",
+      "爱情片",
+      "恐怖片",
+      "犯罪片",
+      "悬疑片",
+      "惊悚片",
+      "剧情片",
+      "冒险片",
+      "记录片",
+      "综艺",
+      "动漫"
+           ]
+    },
+
+
+
+
+
+
 {"key":"Tiantianys","name":"♠️天天-蓝光","type":3,"api":"csp_WexTiantianys","jar":"https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fanniu.jar","searchable":1,"changeable":1},
 
 {"key":"mingriyingshi","name":"♠️明日-蓝光","type":3,"api":"csp_WexMingriys","jar":"https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fanniu.jar","searchable":1,"changeable":1},
@@ -19,7 +190,7 @@
 
 {"key":"F4kvm","name":"♠️纯享-蓝光","type":3,"api":"csp_WexF4kvm","jar":"https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fanniu.jar","searchable":1,"changeable":1},
 
-       {
+      {
             "key": "我爱跟剧",
             "name": "♠️蓝光┃跟剧",
             "type": 3,
@@ -53,15 +224,13 @@
 
 
 
-	
+
 {"key":"drpy_js_奇珍异兽","name":"🤠｜奇艺采集","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"},
 {"key":"drpy_js_优酷","name":"🌱｜优酷采集","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"},
 {"key":"drpy_js_腾云驾雾","name":"☁️｜腾讯采集","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"},
 {"key":"drpy_js_百忙无果","name":"🍑｜芒果采集","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"},
 
 
-
-	
 
 		{
             "key": "业余采集A",
@@ -651,7 +820,7 @@
 	  "quickSearch":1,
 	  "filterable":1,
 	  "ext":"https://agit.ai/lytv/tv/raw/branch/master/xcys.json",
-	  "jar": "https://jihulab.com/ffzs/jar/-/raw/main/xbpq.jarr"
+	  "jar": "https://agit.ai/lytv/tv/raw/branch/master/sglt.jar"
 	  },
     {
             "key": "好恐怖",
@@ -866,7 +1035,7 @@
       "name": "❤️短剧五",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://agit.ai/hu/hcr/raw/branch/master//lib/dj3.jar",
+      "jar": "https://jihulab.com/ffzs/jar/-/raw/main/xbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1270,5 +1439,4 @@
 "lives":[{"name":"live","type":0,"url":"https://jihulab.com/ffzs/ffzstv/-/raw/main/ffzslive.txt","playerType":1,"ua": "okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}]
 
 }
-
 
