@@ -19,9 +19,9 @@
 
 {"key":"F4kvm","name":"♠️纯享-蓝光","type":3,"api":"csp_WexF4kvm","jar":"https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fanniu.jar","searchable":1,"changeable":1},
 
-      {
+       {
             "key": "我爱跟剧",
-            "name": "🍁蓝光┃跟剧",
+            "name": "♠️蓝光┃跟剧",
             "type": 3,
             "api": "csp_XBPQ",
             "jar":"https://jihulab.com/ffzs/jar/-/raw/main/xbpq.jar",
@@ -38,6 +38,18 @@
                 "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#纪录片$jilupian#短剧$duanju#音乐$yinyue"
             }
         },
+ {
+      "key": "T4-juquan",
+      "name": "♠️蓝光┃剧圈圈",
+      "type": 4,
+      "api": "https://catbox.n13.club/juquan.php"
+    },
+ {
+      "key": "T4-heihu",
+      "name": "♠️蓝光┃黑狐",
+      "type": 4,
+      "api": "https://catbox.n13.club/heihu.php"
+    },
 
 
 
