@@ -8,15 +8,187 @@
 
 {"key":"直播转点播","name":"🐼电视直播","type":3,"searchable":0,"api":"https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/lib/live2vod.js","ext":"https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/lib/feimaolive.json"},
 
-{"key":"Tiantianys","name":"♠️天天-蓝光","type":3,"api":"csp_WexTiantianys","jar":"https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fanniu.jar","searchable":1,"changeable":1},
 
-{"key":"mingriyingshi","name":"♠️明日-蓝光","type":3,"api":"csp_WexMingriys","jar":"https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fanniu.jar","searchable":1,"changeable":1},
+{
+      "key": "T4-jieshuo",
+      "name": "🇹影视-解说",
+      "type": 4,
+      "api": "https://catbox.n13.club/bili.php?id=影视解说"
+    },
 
-{"key":"Shijuedy","name":"♠️看看-蓝光","type":3,"api":"csp_WexShijuedy","jar":"https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fanniu.jar","searchable":1,"changeable":1},
+ {
+      "key": "T4-juquan",
+      "name": "🇹蓝光┃剧圈圈",
+      "type": 4,
+      "api": "https://catbox.n13.club/juquan.php"
+    },
+ {
+      "key": "T4-heihu",
+      "name": "🇹蓝光┃黑狐",
+      "type": 4,
+      "api": "https://catbox.n13.club/heihu.php"
+    },
 
-{"key":"Diduanys","name":"♠️渊渊-蓝光","type":3,"api":"csp_WexDiduanys","jar":"https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fanniu.jar","searchable":1,"changeable":1},
+ {
+      "key": "T4-mingri",
+      "name": "🇹独家┃2k",
+      "type": 4,
+      "api": "https://catbox.n13.club/mingri.php"
+    },
+      
 
-{"key":"F4kvm","name":"♠️纯享-蓝光","type":3,"api":"csp_WexF4kvm","jar":"https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fanniu.jar","searchable":1,"changeable":1},
+    {
+      "key": "T4-yinyuetai",
+      "name": "🇹MV┃音悦台",
+      "type": 4,
+      "api": "https://catbox.n13.club/yyt.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": true
+    },
+        {
+      "key": "T4-bmtv",
+      "name": "🇹MTV┃BMTV(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/bili.php?id=bMTV"
+    },
+    {
+      "key": "T4-iktv",
+      "name": "🇹KTV┃iktv",
+      "type": 4,
+      "api": "https://catbox.n13.club/iktv.php"
+    },
+    {
+      "key": "🇹音乐视频┃a8",
+      "name": "视频-A8(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/a8.php"
+    },
+        {
+      "key": "T4-Bliych",
+      "name": "🇹演唱会┃B站",
+      "type": 4,
+      "api": "https://catbox.n13.club/bili.php?id=Bliych"
+    },
+        {
+      "key": "T4-Blixq",
+      "name": "🇹戏曲┃B站",
+      "type": 4,
+      "api": "https://catbox.n13.club/bili.php?id=Blixq"
+    },
+    {
+      "key": "T4-bili",
+      "name": "🇹集合┃B站",
+      "type": 4,
+      "api": "https://catbox.n13.club/bili.php"
+    },
+{
+      "key": "T4-tangdou",
+      "name": "🇹健身┃糖豆",
+      "type": 4,
+      "api": "https://catbox.n13.club/tangdou.php"
+    },
+        {
+      "key": "T4-哔哩套餐2",
+      "name": "🇹KEEP┃哔哩",
+      "type": 4,
+      "api": "https://catbox.n13.club/bili.php?id=哔哩套餐2"
+    },
+
+    {
+      "key": "T4-球类合集",
+      "name": "🇹球类合集┃B站",
+      "type": 4,
+      "api": "https://catbox.n13.club/bili.php?id=球类合集"
+    },
+    {
+      "key": "T4-xiaogou",
+      "name": "🇹音频歌单┃酷狗",
+      "type": 4,
+      "api": "https://catbox.n13.club/xiaogou.php"
+    },
+        {
+      "key": "xiaoyi",
+      "name": "🇹音频歌单┃网易",
+      "type": 4,
+      "api": "https://catbox.n13.club/wy.php"
+    },
+
+{
+      "key": "meowtv_lzzy",
+      "name": "🇹全网┃采集",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "泰国剧",
+        "台湾剧",
+        "香港剧",
+        "欧美剧",
+        "韩国剧",
+        "日本剧",
+        "动漫",
+        "体育",
+        "剧情片",
+        "动作片",
+        "爱情片",
+        "喜剧片"
+      ]
+    },
+    {
+      "key": "快看资源",
+      "name": "🇹快看┃采集",
+      "type": 1,
+      "api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+      "国产剧",
+      "韩国剧",
+      "香港剧",
+      "台湾剧",
+      "欧美剧",
+      "动作片",
+      "科幻片",
+      "战争片",
+      "奇幻片",
+      "喜剧片",
+      "爱情片",
+      "恐怖片",
+      "犯罪片",
+      "悬疑片",
+      "惊悚片",
+      "剧情片",
+      "冒险片",
+      "记录片",
+      "综艺",
+      "动漫"
+           ]
+    },
+
+
+
+
+
+{"key":"Tiantianys","name":"♠天天-蓝光","type":3,"api":"csp_WexTiantianys","jar":"https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fanniu.jar","searchable":1,"changeable":1},
+
+{"key":"mingriyingshi","name":"♠明日-蓝光","type":3,"api":"csp_WexMingriys","jar":"https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fanniu.jar","searchable":1,"changeable":1},
+
+{"key":"Fujutv","name":"♠腐剧-蓝光","type":3,"api":"csp_WexFujutv","jar":"https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fanniu.jar","searchable":1,"changeable":1},
+
+{"key":"Shijuedy","name":"♠看看-蓝光","type":3,"api":"csp_WexShijuedy","jar":"https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fanniu.jar","searchable":1,"changeable":1},
+
+
+{"key":"Diduanys","name":"♠渊渊-蓝光","type":3,"api":"csp_WexDiduanys","jar":"https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fanniu.jar","searchable":1,"changeable":1},
+
+{"key":"F4kvm","name":"♠纯享-蓝光","type":3,"api":"csp_WexF4kvm","jar":"https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fanniu.jar","searchable":1,"changeable":1},
 
       {
             "key": "我爱跟剧",
@@ -37,22 +209,9 @@
                 "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#纪录片$jilupian#短剧$duanju#音乐$yinyue"
             }
         },
-	{
-      "key": "T4-juquan",
-      "name": "🍁蓝光┃剧圈圈",
-      "type": 4,
-      "api": "https://catbox.n13.club/juquan.php"
-    },
- {
-      "key": "T4-heihu",
-      "name": "🍁蓝光┃黑狐",
-      "type": 4,
-      "api": "https://catbox.n13.club/heihu.php"
-    },
 
 
 
-	
 {"key":"drpy_js_奇珍异兽","name":"🤠｜奇艺采集","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"},
 {"key":"drpy_js_优酷","name":"🌱｜优酷采集","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"},
 {"key":"drpy_js_腾云驾雾","name":"☁️｜腾讯采集","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"},
@@ -61,9 +220,9 @@
 
 
 
-	
-	
-	{"key": "戏曲自定义",
+
+
+        {"key": "戏曲自定义",
     "name": "📻春盈┃戏曲",
     "type": 3,"api": "csp_Bili",
     "searchable": 1,
@@ -144,6 +303,28 @@
       "jar":"https://agit.ai/lytv/tv/raw/branch/master/fangniu.jar"
     },
 
+    {"key":"高清网",
+      "name":"📹高清|4K磁力",
+      "type":3,
+      "api":"csp_XBPQ",
+      "jar": "https://jihulab.com/ffzs/jar/-/raw/main/xbpq.jar",
+      "ext":{
+        "搜索链接":"https://gaoqing.la/page/{pg}?cat&s={wd}",
+        "简介":"◎简*介</p >&&</p >",
+        "影片年代":"◎上映 日期&&<br>",
+        "影片地区":"◎产*地&&<br>",
+        "图片是否需要代理": "1",
+        "线路数组":"entry-content u-text-format u-clearfix&&\"content-template",
+        "线路标题":"磁力",
+        "播放数组":"entry-content u-text-format u-clearfix&&\"content-template",
+        "播放列表":"<p>&&</p >[包含:magnet]",
+        "播放链接":"</a >&&</a >",
+        "分类":"必看推荐$recommend#4K最高清$4k#BluRay蓝光原盘$bluray#1080p超清$1080P#720p高清$720p#WEB-DL标清$webdl",
+        "分类链接":"https://gaoqing.la/{cateId}/page/{catePg}[https://gaoqing.la/{cateId}]"
+      }
+    },
+
+
     {   "key": "阿里云集合",
    "name": "♠️阿里云集合|4K",   "type": 3,
    "api": "csp_阿里云集合",   "searchable": 1,
@@ -221,12 +402,7 @@
 			}
 		},
 
- {
-      "key": "T4-mingri",
-      "name": "♠️独家2k",
-      "type": 4,
-      "api": "https://catbox.n13.club/mingri.php"
-    },
+
 
     {
             "key": "csp_YCyz",
@@ -288,6 +464,7 @@
 {"key":"南瓜","name":"🎃南瓜┃App","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
 {"key":"毛驴","name":"🍓毛驴┃直连","type":3,"api":"csp_MLYS","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.maolvys.com/"},
+
 
 {"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"}, 
 {"key":"csp_Bttoo","name":"🍄比特┃秒播","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
@@ -485,7 +662,7 @@
 
        {
       "key": "csp_Nmys",
-      "name": "🇹┃农民影視┃秒播",
+      "name": "🍁┃农民影視┃秒播",
       "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
@@ -495,7 +672,7 @@
     },
         {
       "key": "drpy_js_秋霞影院",
-      "name": "🇹┃秋霞2k┃秒播",
+      "name": "🍁┃秋霞2k┃秒播",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/秋霞.js"
@@ -503,7 +680,7 @@
 
  {
             "key": "天天",
-            "name": "🇹┃天天源┃秒播",
+            "name": "🍁┃天天源┃秒播",
             "type": 3,
             "api": "csp_TTian",
             "jar": "http://tc.feixunline.cn/down.php/2e85feb2888d9efb5b396258f22841ac.jar",
@@ -512,7 +689,7 @@
         },
             {
             "key": "黑狐",
-            "name": "🇹┃黑狐官┃秒播",
+            "name": "🍁┃黑狐官┃秒播",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -658,17 +835,7 @@
 	},
 	{"key":"红牛资源","name":"拾光┃红牛","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港澳剧","日剧","欧美剧","台湾剧","泰剧","韩剧","纪录片","动漫电影"]},
 	  
-    {
-      "key": "T4-yinyuetai",
-      "name": "拾光┃音悦台",
-      "type": 4,
-      "api": "https://catbox.n13.club/yyt.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": true
-    },
+
 
    {
 	  "key":"csp_星辰",
@@ -712,36 +879,7 @@
         },
 
 
-    {
-      "key": "快看资源",
-      "name": "拾光┃快看",
-      "type": 1,
-      "api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-      "国产剧",
-      "韩国剧",
-      "香港剧",
-      "台湾剧",
-      "欧美剧",
-      "动作片",
-      "科幻片",
-      "战争片",
-      "奇幻片",
-      "喜剧片",
-      "爱情片",
-      "恐怖片",
-      "犯罪片",
-      "悬疑片",
-      "惊悚片",
-      "剧情片",
-      "冒险片",
-      "记录片",
-      "综艺",
-      "动漫"
-           ]
-    },
+
   {
             "key": "不鑫影院",
             "name": "拾光┃鑫鑫",
@@ -781,12 +919,6 @@
 			"switchable": 0
 		},
 
-  {
-      "key": "yinyue",
-      "name": "线路|音乐",
-      "type": 4,
-      "api": "https://catbox.n13.club/yyy.php"
-    },
 
  {
       "key": "xuexi",
@@ -894,7 +1026,7 @@
       "name": "❤️短剧五",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://agit.ai/hu/hcr/raw/branch/master//lib/dj3.jar",
+      "jar": "https://jihulab.com/ffzs/jar/-/raw/main/xbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1088,6 +1220,7 @@
 {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"}
 
 ],
+
 "parses":[
     {
             "name": "超级嗅探",
