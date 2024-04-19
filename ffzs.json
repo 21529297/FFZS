@@ -105,7 +105,7 @@
     },
     {
       "key": "T4-xiaogou",
-      "name": "🇹音频歌单┃酷狗",
+      "name": "🇹视频歌单┃酷狗",
       "type": 4,
       "api": "https://catbox.n13.club/xiaogou.php"
     },
