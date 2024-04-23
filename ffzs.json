@@ -223,6 +223,18 @@
                 "非凡提醒您不要相信广告": ""
             }
         },
+	                {
+      "key": "bugu",
+      "name":"🌈bugutv ┃ 影视",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":{"分类链接": "https://www.bugutv.org/{cateId}/page/{catePg}"},
+       "jar": "https://jihulab.com/ffzs/jar/-/raw/main/xbpq.jar"
+    },
+
 
 
 
