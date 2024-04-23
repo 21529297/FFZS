@@ -240,6 +240,18 @@
                 "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#纪录片$jilupian#短剧$duanju#音乐$yinyue"
             }
         },
+	                {
+      "key": "bugu",
+      "name":"🌈bugutv ┃ 影视",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":{"分类链接": "https://www.bugutv.org/{cateId}/page/{catePg}"},
+       "jar": "https://jihulab.com/ffzs/jar/-/raw/main/xbpq.jar"
+    },
+
 
 
 
