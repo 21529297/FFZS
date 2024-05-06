@@ -8,6 +8,66 @@
 
 {"key":"直播转点播","name":"🐼电视直播","type":3,"searchable":0,"api":"https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/lib/live2vod.js","ext":"https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/lib/feimaolive.json"},
 
+
+{
+                "key": "XBPQ_brovod",
+                "name": "兄弟影视┃XBPQ",
+                "type": 3,
+                "changeable": 1,
+                "searchable": 1,
+                "quickSearch": 1,
+                "filterable": 1,
+                "api": "csp_XBPQ",
+                "ext": {
+                "主页url": "https://www.brovod.com/",
+                "副标题": "pic-text text-right\">&&</b>",
+                "图片": "data-original=\"&&\"",
+                "嗅探词": "https://api.xdys.vip/lx/video.php?r=",
+                "搜索url": "https://www.brovod.com/ss/-------------/?wd={wd}",
+                "影片类型": "<div class=\"module-info-tag\">&&立即播放",
+                "线路数组": "data-dropdown-value=&&</div>",
+                "播放列表": "<a&&/a>",
+                "播放标题": "<span>&&</span>",
+                "导演": "导演：&&</div>",
+                "主演": "主演：&&</div>",
+                "分类": "电影$1#电视剧$2#动漫$4n#综艺$3#短剧$6",
+                "分类url": "https://www.brovod.com/show/{cateId}-----------{year}/"},
+        "jar": "https://jihulab.com/ffzs/jar/-/raw/main/xbpq.jar"
+        },
+        {
+                "key": "XBPQ_XiWuTv",
+                "name": "西屋影视┃XBPQ",
+                "type": 3,
+                "api": "csp_XBPQ",
+                "jar": "https://jihulab.com/ffzs/jar/-/raw/main/xbpq.jar",
+                "searchable": 1,
+                "quickSearch": 1,
+                "changeable": 1,
+                "ext":  {
+                "分类url": "https://xiwutv.com/vodtype/{cateId}.html",
+                "分类": "电影$20#电视剧$30#动漫$40#综艺$45#体育$51"}    
+        },
+        {
+                "key": "XBPQ_JQQZX",
+                "name": "剧圈在线┃XBPQ",
+                "type": 3,
+                "api": "csp_XBPQ",
+                "jar": "https://jihulab.com/ffzs/jar/-/raw/main/xbpq.jar",
+                "ext": {
+                        "分类": "电影$dianying#剧集$juji#综艺$zongyi#动漫$dongman#纪录片$jilupian#爽剧$shuangju",
+                        "分类url":"https://www.jqqzx.cc/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"}
+        },
+                     {
+                "key": "XBPQ_51KanJu",
+                "name": "看剧网┃XBPQ",
+                "type": 3,
+                "api": "csp_XBPQ",
+               "jar": "https://jihulab.com/ffzs/jar/-/raw/main/xbpq.jar",
+                "ext": {
+                "分类url": "https://www.51kanju.com/show{cateId}----{catePg}.html",
+                "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$55"}
+        },
+	
 {
       "key": "T4-jieshuo",
       "name": "🇹影视-解说",
